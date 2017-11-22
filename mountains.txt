@@ -5,3 +5,5 @@ Some mountains:
 
 * Scafell Pike
 * Helvellyn
+
+new mountain
